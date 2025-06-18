@@ -8,7 +8,8 @@ const staffMembers = [
     name: "Dr. Emily Carter",
     title: "Lead Dentist, DDS",
     bio: "Dr. Carter has over 15 years of experience in general and cosmetic dentistry, dedicated to providing top-tier patient care.",
-    image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-0.jpg",
+    // image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-0-live.jpg",
+    image: "/images/headshot-0-live.jpg",
     aiHint: "female dentist portrait",
     social: {
       linkedin: "#",
@@ -18,7 +19,8 @@ const staffMembers = [
     name: "Mr. John Smith",
     title: "Dental Hygienist, RDH",
     bio: "John is passionate about preventative care and patient education, helping everyone achieve a healthy smile.",
-    image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-2.jpg",
+    // image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-2.jpg",
+    image: "/images/headshot-2-live.jpg",
     aiHint: "male dental hygienist",
      social: {
       linkedin: "#",
@@ -28,7 +30,8 @@ const staffMembers = [
     name: "Ms. Aisha Khan",
     title: "Orthodontic Specialist",
     bio: "Aisha specializes in creating beautiful, straight smiles for patients of all ages using modern orthodontic techniques.",
-    image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-1.jpg",
+    // image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-1.jpg",
+    image: "/images/headshot-1-live.jpg",
     aiHint: "female orthodontist",
      social: {
       linkedin: "#",
@@ -38,7 +41,8 @@ const staffMembers = [
     name: "Mr Davina Lee",
     title: "Practice Manager",
     bio: "Davina ensures the smooth operation of our clinic, focusing on patient satisfaction and efficient service.",
-    image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-3.jpg",
+    // image: "https://storage.googleapis.com/c_the_green_dental_bucket/headshot-3.jpg",
+    image: "/images/headshot-3-live.jpg",
     aiHint: "male practice manager",
      social: {
       linkedin: "#",

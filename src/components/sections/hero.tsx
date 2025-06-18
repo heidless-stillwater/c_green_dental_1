@@ -29,7 +29,8 @@ export function Hero() {
         </div>
         <div className="relative h-80 w-full overflow-hidden rounded-xl shadow-2xl md:h-[400px] lg:h-[500px]">
           <Image
-            src="https://storage.googleapis.com/c_the_green_dental_bucket/dental-practice-0-live.jpg"
+            // src="https://storage.googleapis.com/c_the_green_dental_bucket/dental-practice-0-live.jpg"
+            src="/images/dental-practice-0-live.jpg"
             alt="Modern dental clinic interior"
             layout="fill"
             objectFit="cover"

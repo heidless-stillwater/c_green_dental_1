@@ -16,7 +16,8 @@ export function About() {
       <div className="container grid grid-cols-1 items-center gap-12 md:grid-cols-2">
         <div className="relative order-last h-80 w-full overflow-hidden rounded-xl shadow-xl md:order-first md:h-[450px]">
           <Image
-            src="https://storage.googleapis.com/c_the_green_dental_bucket/dental_team-0-live.jpg"
+            // src="https://storage.googleapis.com/c_the_green_dental_bucket/dental_team-0-live.jpg"
+            src="/images-ss/dental_team-0-live.jpg"
             alt="Dental team working together"
             layout="fill"
             objectFit="cover"
