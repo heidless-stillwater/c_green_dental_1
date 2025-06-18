@@ -17,7 +17,7 @@ export function About() {
         <div className="relative order-last h-80 w-full overflow-hidden rounded-xl shadow-xl md:order-first md:h-[450px]">
           <Image
             // src="https://storage.googleapis.com/c_the_green_dental_bucket/dental_team-0-live.jpg"
-            src="/images-ss/dental_team-0-live.jpg"
+            src="/images/dental_team-0-live.jpg"
             alt="Dental team working together"
             layout="fill"
             objectFit="cover"
